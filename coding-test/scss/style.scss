@@ -1,0 +1,14 @@
+body{
+    font-family: '小塚ゴシック Pr 6N',sans-serif;
+}
+
+
+.container{
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+    @import "header";
+    @import "main-visual";
+    @import "slider";
